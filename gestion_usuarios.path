@@ -1,0 +1,9 @@
+[Unit]
+        Description=Alta Baja Usuarios Path
+        Before=administracionUsuarios.service
+
+[Path]
+        PathExistsGlob=/srv/administracioUsuaris/*.csv
+
+[Install]
+        WantedBy=multi-user.target

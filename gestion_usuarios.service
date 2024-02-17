@@ -1,0 +1,11 @@
+[Unit]
+	Description=Alta Baja Usuarios
+
+[Service]
+	Type=simple
+	ExecStart=/bin/bash /usr/bin/alta_baja_usuarios.sh
+	StartLimitInterval=0
+	StartLimitBurst=5
+
+[Install]
+	WantedBy=multi-user.target
