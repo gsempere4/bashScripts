@@ -1,7 +1,7 @@
-Operacion,Nombre,Primer_apellido,Login,Seccion,Departamento
-Alta,Alberto,Dominguez,adominguez,Administracion,Direccion
-Alta,Jose,Castillo,jcastillo,Administracion,Direccion
-Alta,Maria Jose,Esteve,mjesteve,Administracion,Gestion
-Alta,Jesus,Calleja,jcalleja,Administración,Gestion
-Alta,Jose,Arribas,jarribas,Informatica,Taller
-Alta,Maria,Mompó,mmompo,Informatica,Taller
+Operacion,Nombre,Primer_apellido,Login,Departamento
+Alta,Alberto,Dominguez,adominguez,Formacion
+Alta,Jose,Castillo,jcastillo,Formacion
+Alta,Maria Jose,Esteve,mjesteve,Formacion
+Alta,Jesus,Calleja,jcalleja,Formacion
+Alta,Jose,Arribas,jarribas,Formacion
+Alta,Maria,Mompó,mmompo,Formacion
